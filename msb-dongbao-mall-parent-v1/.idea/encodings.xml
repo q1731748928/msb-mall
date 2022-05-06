@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/msb-dongbao-api/msb-dongbao-ums-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/msb-dongbao-application/msb-dongbao-portal-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/msb-dongbao-common/msb-dongbao-common-base/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/msb-dongbao-common/msb-dongbao-common-util/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/msb-dongbao-generator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/msb-dongbao-service/msb-dongbao-ums/src/main/java" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/msb-dongbao-api/msb-dongbao-api.iml" filepath="$PROJECT_DIR$/msb-dongbao-api/msb-dongbao-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/msb-dongbao-application/msb-dongbao-application.iml" filepath="$PROJECT_DIR$/msb-dongbao-application/msb-dongbao-application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/msb-dongbao-common/msb-dongbao-common.iml" filepath="$PROJECT_DIR$/msb-dongbao-common/msb-dongbao-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/msb-dongbao-common/msb-dongbao-common-base/msb-dongbao-common-base.iml" filepath="$PROJECT_DIR$/msb-dongbao-common/msb-dongbao-common-base/msb-dongbao-common-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/msb-dongbao-common/msb-dongbao-common-util/msb-dongbao-common-util.iml" filepath="$PROJECT_DIR$/msb-dongbao-common/msb-dongbao-common-util/msb-dongbao-common-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/msb-dongbao-generator/msb-dongbao-generator.iml" filepath="$PROJECT_DIR$/msb-dongbao-generator/msb-dongbao-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/msb-dongbao-mall-parent-v1.iml" filepath="$PROJECT_DIR$/msb-dongbao-mall-parent-v1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/msb-dongbao-application/msb-dongbao-portal-web/msb-dongbao-portal-web.iml" filepath="$PROJECT_DIR$/msb-dongbao-application/msb-dongbao-portal-web/msb-dongbao-portal-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/msb-dongbao-service/msb-dongbao-service.iml" filepath="$PROJECT_DIR$/msb-dongbao-service/msb-dongbao-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/msb-dongbao-service/msb-dongbao-ums/msb-dongbao-ums.iml" filepath="$PROJECT_DIR$/msb-dongbao-service/msb-dongbao-ums/msb-dongbao-ums.iml" />
+      <module fileurl="file://$PROJECT_DIR$/msb-dongbao-api/msb-dongbao-ums-api/msb-dongbao-ums-api.iml" filepath="$PROJECT_DIR$/msb-dongbao-api/msb-dongbao-ums-api/msb-dongbao-ums-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatisplus_01_quickstart/mybatisplus_01_quickstart.iml" filepath="$PROJECT_DIR$/mybatisplus_01_quickstart/mybatisplus_01_quickstart.iml" />
+    </modules>
+  </component>
+</project>
